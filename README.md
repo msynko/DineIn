@@ -24,5 +24,5 @@ To run this project, install it locally:
 
 ```
 $ cd ../DINEIN
-$ open index.html
+$ open ./index.html
 ```
