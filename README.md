@@ -7,7 +7,7 @@
 This is a landing page for local restaurant.
 
 <div align="left">
-    <img src="image/homepage/screen.png" width="400px"</img> 
+    <img src="images/homepage/screen.png" width="400px"</img> 
 </div>
 
 [Live Demo](https://msynko.github.io/DineIn/)
